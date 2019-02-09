@@ -1,0 +1,4 @@
+To use RootlessInstaller you can only use the DebsForRootless Folder on GitHub.
+
+Copy the link when you click download on the tweak you want and paste it into RootlessInstaller.
+The app will do the rest.
